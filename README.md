@@ -10,3 +10,12 @@ Genome-Wide Association Studies (GWAS) calculate p-values to assess the statisti
 - Generate Manhattan and QQ plots.
 - Filters SNPs with p-values above 1e-2 to optimize performance.
 - Save plots as PNG files for further use.
+
+## Requirements
+This tool is written in Python. To run this tool locally, you will need to install the following dependencies.
+
+### Required Packages
+Python 3.x \
+Streamlit: For creating the web-based interface. \
+Pandas: For data handling and manipulation. \
+Matplotlib: For generating Manhattan and QQ plots.
