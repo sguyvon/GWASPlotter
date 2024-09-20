@@ -6,7 +6,7 @@ Genome-Wide Association Studies (GWAS) calculate p-values to assess the statisti
 
 ## Features
 
-- Upload GWAS summary statistics (CSV/TSV format).
+- Upload GWAS summary statistics (CSV,TSV or txt format).
 - Generate Manhattan and QQ plots.
 - Filters SNPs with p-values above 1e-2 to optimize performance.
 - Save plots as PNG files for further use.
