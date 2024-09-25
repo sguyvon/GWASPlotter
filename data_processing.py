@@ -7,3 +7,5 @@ def validate_columns(df, required_columns):
 def filter_snps(df, pvalue_threshold=1e-2):
     """Filter SNPs with p-values <= the specified threshold."""
     return df[df['p-value'] <= pvalue_threshold]
+
+
